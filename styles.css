@@ -1,0 +1,52 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    border: black solid 1px;
+    padding: 20px;
+    width: 30%;
+    margin: auto;
+    background-color: antiquewhite;
+}
+.heading{
+    margin-bottom: 2px;
+}
+body{
+    text-align: center;
+    background-color: cadetblue;
+    color: darkcyan;
+}
+.null{
+    height: 100px;
+}
+.change-table{
+    border: solid 1px darkcyan;
+    background-color: white;
+}
+caption{
+    padding-bottom: 10px;
+    font-weight: bold;
+    color: darkcyan;
+}
+#check-button{
+    padding: 5px;
+    margin: auto;
+    background-color: white;
+    color: darkcyan;
+    width: 30%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+.no-of-notes{
+    border: solid 0.1px black;
+    width: 40px;
+}
+th{
+    border: solid 1px black;
+}
+td{
+    border: solid 0.1px black;
+}
